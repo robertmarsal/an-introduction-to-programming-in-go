@@ -7,3 +7,4 @@ These are my solutions for the problems proposed in the [An Introduction to Prog
 [Chapter 5](/05.md) Control Structures  
 [Chapter 6](/06.md) Arrays, Slices and Maps  
 [Chapter 7](/07.md) Functions  
+[Chapter 8](/08.md) Pointers    
