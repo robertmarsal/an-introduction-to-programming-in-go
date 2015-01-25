@@ -6,3 +6,4 @@ These are my solutions for the problems proposed in the [An Introduction to Prog
 [Chapter 4](/04.md)  
 [Chapter 5](/05.md)  
 [Chapter 6](/06.md)  
+[Chapter 7](/07.md)  
