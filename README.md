@@ -12,3 +12,4 @@ These are my solutions for the problems proposed in the [An Introduction to Prog
 [Chapter 10](/10.md) Concurrency  
 [Chapter 11](/11.md) Concurrency  
 [Chapter 12](/12.md) Testing  
+[Chapter 13](/13.md) The Core Packages  
